@@ -1,17 +1,9 @@
 ---
 title: "The Rise of Edge Computing: Why It Matters in 2025"
+seoTitle: "The Rise of Edge Computing: Why It Matters in 2025"
+slug: rise-of-cloud-computing
 subtitle: "Exploring the future of distributed computing and real-time processing"
-tags:
-  - name: technology
-    slug: technology
-  - name: cloud computing
-    slug: cloud-computing
-  - name: edge computing
-    slug: edge-computing
-  - name: performance
-    slug: performance
-ogTitle: "The Rise of Edge Computing: Why It Matters in 2025"
-ogDescription: "Exploring how edge computing is transforming application performance and user experiences across the globe"
+tags: technology
 ---
 
 # The Rise of Edge Computing: Why It Matters in 2025
