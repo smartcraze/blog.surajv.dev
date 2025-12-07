@@ -4,8 +4,10 @@ seoTitle: "Suraj on Cloud first blog"
 seoDescription: "suraj on cloud first blog"
 slug: suraj-on-cloud-first-blog
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765043301704/41f29cd8-1a39-419e-b31c-faa65758a2ca.png
-tags: ["first-blog"]
+tags:
+  - name: first-blog
 ---
+
 
 
 ### Well, everybody would be wondering who am I?
