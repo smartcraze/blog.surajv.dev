@@ -2,13 +2,11 @@
 title: "Suraj on cloud First Blog"
 seoTitle: "Suraj on Cloud first blog"
 seoDescription: "suraj on cloud first blog"
-datePublished: Sat Dec 06 2025 16:22:01 GMT+0000 (Coordinated Universal Time)
-cuid: cmiui4iu2000302lb3k8631rm
 slug: suraj-on-cloud-first-blog
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765043301704/41f29cd8-1a39-419e-b31c-faa65758a2ca.png
-tags: first-blog
-
+tags: ["first-blog"]
 ---
+
 
 ### Well, everybody would be wondering who am I?
 
