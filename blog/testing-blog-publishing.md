@@ -1,7 +1,6 @@
 ---
 title: "The Rise of Edge Computing: Why It Matters in 2025"
 subtitle: "Exploring the future of distributed computing and real-time processing"
-coverImageUrl: ""
 tags:
   - name: technology
     slug: technology
