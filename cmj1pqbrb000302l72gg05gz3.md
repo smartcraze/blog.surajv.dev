@@ -1,5 +1,5 @@
 ---
-title: "what are packets"
+title: "what are packets ?"
 seoTitle: "what is packet in networking"
 seoDescription: "what is packet in networking"
 datePublished: Thu Dec 11 2025 17:29:19 GMT+0000 (Coordinated Universal Time)
